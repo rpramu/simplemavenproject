@@ -374,3 +374,11 @@ org.eclipse.core.runtime.CoreException: Launch configuration MyApp references no
 2024-02-29 15:43:51,201 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rpramu/Documents/Java_Poj/simplemavenproject/src/main/resources
 2024-02-29 15:43:51,203 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-02-29 15:43:51,203 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rpramu/Documents/Java_Poj/simplemavenproject/src/test/resources
+2024-02-29 16:04:02,928 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-29 16:04:02,929 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rpramu/Documents/Java_Poj/simplemavenproject/src/main/resources
+2024-02-29 16:04:02,931 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-29 16:04:02,931 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rpramu/Documents/Java_Poj/simplemavenproject/src/test/resources
+2024-02-29 16:04:24,669 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-29 16:04:24,669 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rpramu/Documents/Java_Poj/simplemavenproject/src/main/resources
+2024-02-29 16:04:24,671 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-29 16:04:24,671 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/rpramu/Documents/Java_Poj/simplemavenproject/src/test/resources
