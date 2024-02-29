@@ -10,7 +10,6 @@ public class App
     {
     	System.out.println( "Welcome to the world of the jenkins !" );
         System.out.println("Simple project for jenkins");
-        demo.name();
+   
     }
-    
 }
